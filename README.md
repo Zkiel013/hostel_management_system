@@ -75,4 +75,4 @@ cd Hostel_management_System
 
 ## License
 
-© 2024 Khadka Baniya
+© 2024 Ezekiel Tep
