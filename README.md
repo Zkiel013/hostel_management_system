@@ -11,7 +11,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/khadka-123/Hostel_management_System.git
+git clone https://github.com/Zkiel013/Hostel_management_System.git
 cd Hostel_management_System
 ```
 
